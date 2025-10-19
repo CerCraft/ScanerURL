@@ -35,7 +35,7 @@ pip install requests beautifulsoup4 dnspython
 
 ## Usage
 
-To use the EasyScan script, follow these steps:
+To use the Scan script, follow these steps:
 
 1. Save the code to a file named `scan.py`.
 2. Open a terminal or command prompt and navigate to the directory containing the script.
